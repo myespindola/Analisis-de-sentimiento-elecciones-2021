@@ -12,10 +12,10 @@ nltk.download('stopwords') #Stopwords
 
 
 # Ingresamos las credenciales para la API de Twitter
-ckey='IbjaqyBiDR4tYrEeueprulgPH'
-csecret='azFujWwCTOV1HyrzhBjmD6UpZo0EJpzzlrV3YyygtVux9UJOFV'
-atoken='1604331810-fZ1HnVizGkcRz62WgFuhS0syuDFRtaJwkYE2n1j'
-asecret='UiYAeaJMA9t3vs3ki5x4ACMd7xAswE8lNzKFe4kIi6Wg4'
+ckey='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+csecret='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+atoken='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+asecret='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # Establecemos la coneccion con la base de datos en SQLite
 conn = sqlite3.connect('twitter.db')
